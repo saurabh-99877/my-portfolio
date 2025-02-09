@@ -32,7 +32,7 @@ const About = () => {
             <li>
               <strong>React.js</strong> – Building dynamic, high-performance web
               applications
-            </li>w
+            </li>
             <li>
               <strong>Tailwind CSS</strong> - Crafting beautiful, responsive,
               and modern UIs
